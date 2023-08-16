@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/Gilroy-FREE/Gilroy-ExtraBold.otf",
+      "sha1": "ebd136c81542a067830d5852b785d069403c4a15"
+    },
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/Gilroy-FREE/Gilroy-Light.otf",
+      "sha1": "78410fd9e800f48e3ffa140497ba2d65ac169d22"
+    },
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/Gilroy-FREE/Radomir Tinkov Free Font EULA .pdf",
+      "sha1": "aff0c1b0a401fb85276c912133751bea605fa422"
+    },
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/__MACOSX/._Gilroy-FREE",
+      "sha1": "755aaebd6577181d17f0d168693cc152008100bd"
+    },
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/__MACOSX/Gilroy-FREE/._.DS_Store",
+      "sha1": "11050c2745c99ec8dacff161c2a0a22ffacb8b47"
+    },
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/__MACOSX/Gilroy-FREE/._Gilroy-ExtraBold.otf",
+      "sha1": "0814900aaceb4887bac47c4a2a501869b76c691d"
+    },
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/__MACOSX/Gilroy-FREE/._Gilroy-Light.otf",
+      "sha1": "2881701976f380a58140b519a816e6524baaa35c"
+    },
+    {
+      "path": "src/view/assets/fonts/font gilroy/Gilroy-FREE/__MACOSX/Gilroy-FREE/._Radomir Tinkov Free Font EULA .pdf",
+      "sha1": "949500ac644be818e73d74822324ba5b2a61c736"
+    }
+  ]
+}
